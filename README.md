@@ -27,4 +27,7 @@ The expected output of this is this sample:
 5
 9
 
+Here is a link to the challenge:
+
+https://www.hackerrank.com/challenges/variable-sized-arrays/problem
 
